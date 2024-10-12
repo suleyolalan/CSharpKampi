@@ -43,8 +43,8 @@ namespace CSharpKampi
             //string customerEmail, district, city;
 
             //customerName = "Mustafa";
-            //customerSurname = "Alan";
-            //customerPhone = "0553 163 4338";
+            //customerSurname = "Almış";
+            //customerPhone = "0553 000 00 00";
             //customerEmail = "deneme@gmail.com";
             //district = "İzmit";
             //city = "Kocaeli";
@@ -59,7 +59,7 @@ namespace CSharpKampi
 
             //customerName = "Şule";
             //customerSurname = "Yolalan";
-            //customerPhone = "0551 550 7991";
+            //customerPhone = "0551 000 00 00";
             //customerEmail = "deneme2@gmail.com";
             //district = "İzmit";
             //city = "Kocaeli";
