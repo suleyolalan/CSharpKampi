@@ -173,7 +173,7 @@ namespace _04_Loopss
 
 
             //Console.WriteLine(ones + "-" + tens + "-" + hundreds);
-
+    
             //sum=ones+tens+hundreds;
 
             //Console.WriteLine(sum);
